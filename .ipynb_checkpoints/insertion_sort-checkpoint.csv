@@ -1,0 +1,6 @@
+,algoritmo,instancia,distribuicao,tempo_execucao_s,tempo_execucao_ms
+0,insertionSort,2000000,C,1.49,1494.5
+1,insertionSort,1000000,C,0.76,756.41
+2,insertionSort,500000,C,0.36,355.71
+3,insertionSort,250000,C,0.18,180.38
+4,insertionSort,125000,C,0.09,92.06
